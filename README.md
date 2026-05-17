@@ -1,3 +1,3 @@
 # test-markdown
 
-==TEST==
+<mark>Выделенный текст</mark>
